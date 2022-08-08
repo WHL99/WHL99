@@ -7,11 +7,11 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- ⚡ Fun fact that I read Tarot card and play piano & guitar
 
-<h3 align="left">My projects:</h3><h2>&emsp;<a href="https://whl99.github.io/first-project/">Tarot Card Reading</a> &emsp;&emsp;&emsp;&emsp; <a href="https://findyouaroom.herokuapp.com/">Find You A Room</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://datingapes.herokuapp.com/">Dating Apes</a></h2>
+<h3 align="left">My projects:</h3><h2>&emsp;<a href="https://whl99.github.io/first-project/">Tarot Card Reading</a> &emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://findyouaroom.herokuapp.com/">Find You A Room</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://datingapes.herokuapp.com/">Dating Apes</a></h2>
 <p>
 &emsp;&emsp;&emsp;<a href="https://whl99.github.io/first-project/" target="blank"><img align="center" src="https://res.cloudinary.com/dsy2gebem/image/upload/v1659911403/others/tarot_otq4sy.png" alt="first_project" height="180"/></a>&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://findyouaroom.herokuapp.com/" target="blank"><img align="center" src="https://res.cloudinary.com/dsy2gebem/image/upload/v1659911407/others/house_sbb5rd.png" alt="WHL99" height="180" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://datingapes.herokuapp.com/" target="blank"><img align="center" src="https://res.cloudinary.com/dsy2gebem/image/upload/v1659913792/others/dating2_fr0kwo.png" alt="WHL99" height="180" /></a></p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/WHL99/first-project">repository</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <a href="https://github.com/WHL99/second-project">repository</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://github.com/WHL99/third-project">repository</a><br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/WHL99/first-project">repository</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <a href="https://github.com/WHL99/second-project">repository</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://github.com/WHL99/third-project">repository</a><br><br>
 
 
 
