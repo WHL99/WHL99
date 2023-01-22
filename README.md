@@ -5,7 +5,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- 📫 How to reach me **wenhsuanliao@protonmail.com**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- ⚡ Fun fact that I read Tarot card and play piano & guitar
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- ⚡ Besides coding, I read Tarot card and play piano & guitar
 
 <h3 align="left">My projects:</h3><h2>&emsp;<a href="https://whl99.github.io/tarot-card-reading/" target="_blank">Tarot Card Reading</a> &emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://findyouaroom.onrender.com" target="_blank">Find You A Room</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://datingapes.onrender.com" target="_blank">Dating Apes</a></h2>
 <p>
