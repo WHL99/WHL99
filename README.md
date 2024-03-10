@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">&emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/wen-hsuan-liao-berlin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/183432315-02fc8907-fb1e-4b2a-8c06-d04c23048e6e.png" alt="wen-hsuan-l-669a92194/" height="35"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/WHL99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/183434810-25cbf45e-1b95-4b6c-a902-5ba97547bed7.svg" alt="WHL99" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:wenhsuanliao@protonmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/183432335-515b148a-7e70-4520-8302-eb4097292cd1.png" alt="email" height="29"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codesandbox.io/u/WHL99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/211806577-2f32094e-76d6-4d6d-bf96-c430367c5c6e.png" alt="codesandbox" height="35"  /></a></p>
+<p align="left">&emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/wen-hsuan-liao-berlin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/183432315-02fc8907-fb1e-4b2a-8c06-d04c23048e6e.png" alt="wen-hsuan-l-669a92194/" height="35"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/WHL99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/183434810-25cbf45e-1b95-4b6c-a902-5ba97547bed7.svg" alt="WHL99" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:wenhsuanliao@protonmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104759740/183432335-515b148a-7e70-4520-8302-eb4097292cd1.png" alt="email" height="29"  /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">&emsp;&emsp;&emsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> &nbsp;
@@ -37,10 +37,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>&nbsp; 
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/208433898-a17790a7-8f92-4942-b7b2-89f7666f38c4.svg" alt="fastAPI" width="40" height="40" /> </a>&emsp;&emsp;&emsp;&nbsp;
 
-  
+&emsp;&emsp;&emsp;&nbsp;
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>&nbsp;
-
-  
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> </a>&nbsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> &nbsp;
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434197-8ceaa9da-e3ef-40b2-a28c-695cee41ca55.png" alt="live" width="40" height="40" /> </a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434212-8772620b-6b0b-40b0-8616-cb9f9b9c5b06.png" alt="illustrator" width="40" height="40" /> </a> &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434624-3cb46e38-2dc7-454a-9657-8b42ee9cfe64.png" alt="photoshop" width="40" height="40" /> </a> </p>
