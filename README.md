@@ -26,7 +26,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434165-295cd27f-c6a1-428d-8a0f-ad5b86213cf6.png" alt="nodejs" width="40" height="40" /> </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/188517922-5111ec6b-8f25-4846-b236-69be6acc9142.png" alt="typescript" width="40" height="40" /> </a>&nbsp;
-    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/containergrid/frontend-react/assets/104759740/70cfdee0-a604-44f5-9e2b-e4a8f3ba6966" alt="typescript" width="40" height="40" /> </a>&nbsp;
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/containergrid/frontend-react/assets/104759740/70cfdee0-a604-44f5-9e2b-e4a8f3ba6966" alt="graphql" width="40" height="40" /> </a>&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>&nbsp; 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183629398-dbe4e98d-02c1-4bd2-baec-ff631e1f8635.png" alt="git" width="40" height="40" /> </a>&nbsp;
@@ -35,8 +35,12 @@
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>&nbsp; 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>&nbsp; 
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/208433898-a17790a7-8f92-4942-b7b2-89f7666f38c4.svg" alt="fastAPI" width="40" height="40" /> </a>&nbsp; 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>&nbsp;<br>&emsp;&emsp;&emsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/208433898-a17790a7-8f92-4942-b7b2-89f7666f38c4.svg" alt="fastAPI" width="40" height="40" /> </a>&emsp;&emsp;&emsp;&nbsp;
+
+  
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>&nbsp;
+
+  
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> </a>&nbsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> &nbsp;
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434197-8ceaa9da-e3ef-40b2-a28c-695cee41ca55.png" alt="live" width="40" height="40" /> </a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434212-8772620b-6b0b-40b0-8616-cb9f9b9c5b06.png" alt="illustrator" width="40" height="40" /> </a> &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/104759740/183434624-3cb46e38-2dc7-454a-9657-8b42ee9cfe64.png" alt="photoshop" width="40" height="40" /> </a> </p>
